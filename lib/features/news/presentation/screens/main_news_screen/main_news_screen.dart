@@ -56,7 +56,7 @@ class MainNewsScreen extends StatelessWidget {
                           child: const Row(
                             children: [
                               Text(
-                                'VIEW MORE',
+                                'VIEW MORE Here pleaseeeeeeeeee',
                                 style: TextStyle(
                                   color: Colors.black,
                                   fontSize: 10,
